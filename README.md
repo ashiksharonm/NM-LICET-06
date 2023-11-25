@@ -7,5 +7,5 @@ The Stock Inventory Management System simplifies inventory management for busine
 Ashik Sharon M - 311120104010 [CSE]
 Sedric F R - 311120104054 [CSE]
 Hari Raja H - 311120104019 [CSE]
-Ashik Sharon M - 311120104028 [CSE]
+Kesavardhan S- 311120104028 [CSE]
 
