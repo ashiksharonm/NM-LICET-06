@@ -8,7 +8,7 @@ The Stock Inventory Management System simplifies inventory management for busine
 UserName : admin  <br>
 Password : admin@123
 
-## Deployment Link : https://stockvault.netlify.app/
+#### Deployment Link : https://stockvault.netlify.app/
 
 ## Team Members:
 | Name             | Roll Number       | Year             | Batch             |
