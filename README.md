@@ -5,7 +5,7 @@
 The Stock Inventory Management System simplifies inventory management for businesses with user-friendly features like adding, updating, deleting, and searching stocks. It offers real-time visibility into stock levels, efficient movement tracking, and streamlines stock ordering.
 
 ### Testing Credentials:
-UserName : admin
+UserName : admin  <br>
 Password : admin@123
 
 ## Deployment Link : https://stockvault.netlify.app/
