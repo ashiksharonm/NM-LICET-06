@@ -1,10 +1,10 @@
-## Naan Mudhalvan - Full Stack Web Development with Java 
-# Stock Inventory Application System
+# Naan Mudhalvan - Full Stack Web Development with Java 
+## Stock Inventory Application System
 
-# Description:
+## Description:
 The Stock Inventory Management System simplifies inventory management for businesses with user-friendly features like adding, updating, deleting, and searching stocks. It offers real-time visibility into stock levels, efficient movement tracking, and streamlines stock ordering.
 
-# Team Members:
+## Team Members:
 Ashik Sharon M - 311120104010
 
 Sedric F R - 311120104054
@@ -16,7 +16,7 @@ Kesavardhan S- 311120104028
 Year: IV (2020-2024)
 
 
-# Output Screenshots:
+## Output Screenshots:
 
 Login page:
 ![image](https://github.com/ashiksharonm/nm-licet-group6/assets/80738185/40ec12d4-0ab0-4bce-9b02-385f87f295e4)
