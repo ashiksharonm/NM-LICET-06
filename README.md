@@ -11,12 +11,12 @@ Password : admin@123
 #### Deployment Link : https://stockvault.netlify.app/
 
 ## Team Members:
-| Name             | Roll Number       | Year             | Batch             |
-|------------------|-------------------|------------------|-------------------|
-| Ashik Sharon M   | 311120104010      | IV               | 2020-2024         |
-| Sedric F R       | 311120104054      | IV               | 2020-2024         |
-| Hari Raja H      | 311120104019      | IV               | 2020-2024         |
-| Kesavardhan S    | 311120104028      | IV               | 2020-2024         |
+| Name                 | Roll Number       | Year             | Batch             |
+|----------------------|-------------------|------------------|-------------------|
+| **Ashik Sharon M**   | 311120104010      | IV               | 2020-2024         |
+| **Sedric F R**       | 311120104054      | IV               | 2020-2024         |
+| **Hari Raja H**      | 311120104019      | IV               | 2020-2024         |
+| **Kesavardhan S**    | 311120104028      | IV               | 2020-2024         |
 
 
 ## Output Screenshots:
