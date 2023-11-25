@@ -15,26 +15,32 @@ Kesavardhan S- 311120104028 [CSE]
 Output Screenshots:
 
 Login page:
-![image](https://github.com/ashiksharonm/nm-licet-group6/assets/80738185/ec8ad444-9e25-4d84-930b-151bc521bc72)
+![image](https://github.com/ashiksharonm/nm-licet-group6/assets/80738185/40ec12d4-0ab0-4bce-9b02-385f87f295e4)
+
 
 Home page:
-![image](https://github.com/ashiksharonm/nm-licet-group6/assets/80738185/e47a0f62-43b1-42b3-97f4-2808d264ced5)
+![image](https://github.com/ashiksharonm/nm-licet-group6/assets/80738185/074e72e3-1978-435c-b959-ef6b729f5be4)
+
 
 Add Stocks:
-![image](https://github.com/ashiksharonm/nm-licet-group6/assets/80738185/5085f36d-1dde-4199-97c2-13fb9c1159f3)
+![image](https://github.com/ashiksharonm/nm-licet-group6/assets/80738185/c0892218-1d7a-40d9-8819-313fe580bcd2)
 
-![image](https://github.com/ashiksharonm/nm-licet-group6/assets/80738185/fb06c86a-9cf7-42fe-b57c-fb09090aa398)
+![image](https://github.com/ashiksharonm/nm-licet-group6/assets/80738185/0180be35-7103-4805-b293-4010029ea9e2)
+
 
 Update Stocks:
-![image](https://github.com/ashiksharonm/nm-licet-group6/assets/80738185/eadbfa27-3fe2-4b32-b09f-1ea485a60c9a)
+![image](https://github.com/ashiksharonm/nm-licet-group6/assets/80738185/ad669c19-e7c3-4247-9069-b3eb0dcfee5a)
 
-![image](https://github.com/ashiksharonm/nm-licet-group6/assets/80738185/dd3100ae-bcad-4719-9d4d-77e8daf96f4e)
+![image](https://github.com/ashiksharonm/nm-licet-group6/assets/80738185/e1a461e6-0384-4b1d-8b24-4d73ecddaa0f)
+
 
 Delete Stocks:
-![image](https://github.com/ashiksharonm/nm-licet-group6/assets/80738185/6c9df8c3-8fdc-43c9-b7f6-953dfb01ac1a)
+![image](https://github.com/ashiksharonm/nm-licet-group6/assets/80738185/642480f3-2e73-462c-b06e-9b350fabeda2)
+
 
 Search Stocks:
-![image](https://github.com/ashiksharonm/nm-licet-group6/assets/80738185/a3579017-8216-4f44-9e96-65a46c3c03f6)
+![image](https://github.com/ashiksharonm/nm-licet-group6/assets/80738185/71334d42-e380-44c0-a59d-9dbadb00b973)
+
 
 
 
