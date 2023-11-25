@@ -1,0 +1,19 @@
+Open the home page
+
+## Home Page
+- Search Stocks
+- Read available stock ( For a Limit [10-15 No.s] )
+- Can navigate to Stock creation , updation , deletion pages
+
+## AddStock Page
+- Can add stocks to inventory
+- Can navigate to Home and  Stock updation , deletion pages
+
+## UpdateStock Page
+- Can update stock details in inventory
+- Can navigate to Home and  Stock creation , deletion page
+
+## DeleteStock Page
+- Can delete stocks in inventory
+- Can navigate to Home and  Stock creation , updation page
+
