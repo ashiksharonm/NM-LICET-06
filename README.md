@@ -1,18 +1,22 @@
-## Stock Inventory Application System
+## Naan Mudhalvan - Full Stack Web Development with Java 
+# Stock Inventory Application System
 
 # Description:
 The Stock Inventory Management System simplifies inventory management for businesses with user-friendly features like adding, updating, deleting, and searching stocks. It offers real-time visibility into stock levels, efficient movement tracking, and streamlines stock ordering.
 
 # Team Members:
-Ashik Sharon M - 311120104010 [CSE]
+Ashik Sharon M - 311120104010
 
-Sedric F R - 311120104054 [CSE]
+Sedric F R - 311120104054
 
-Hari Raja H - 311120104019 [CSE]
+Hari Raja H - 311120104019
 
-Kesavardhan S- 311120104028 [CSE]
+Kesavardhan S- 311120104028
 
-Output Screenshots:
+Year: IV (2020-2024)
+
+
+# Output Screenshots:
 
 Login page:
 ![image](https://github.com/ashiksharonm/nm-licet-group6/assets/80738185/40ec12d4-0ab0-4bce-9b02-385f87f295e4)
