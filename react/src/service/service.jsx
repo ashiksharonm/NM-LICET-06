@@ -31,9 +31,9 @@ export const searchStockById = async (stockId) => {
 // Function to get the status color
 export const getStatusColor = (status) => {
   if (status === "active") {
-    return "bg-success text-white";
+    return "text-success";
   } else if (status === "out of stock") {
-    return "bg-danger text-white";
+    return "text-danger";
   }
   return ""; // Default styling
 };
